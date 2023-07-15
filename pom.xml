@@ -10,9 +10,9 @@
 
     <distributionManagement>
 	    <repository>
-			<id>https://github.com/GauriChoudhari91/DevOpsClassCodes.git</id>
-			<name>MyCo Internal Repository</name>
-			<url>www.test@test.com</url>
+		<id>https://github.com/GauriChoudhari91/DevOpsClassCodes.git</id>
+		<name>MyCo Internal Repository</name>
+		<url>scpexe://repository.mycompany.com/repository</url>
 	    </repository>
     </distributionManagement>
 	
